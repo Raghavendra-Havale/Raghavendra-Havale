@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghavendra Havale</h1>
-<h3 align="center">A passionate blockchain developer from India</h3>
-
-- 🌱 I’m currently learning **Hardhat,Ether.js, Web3.js**
-
-- 💬 Ask me about **Solidity, Hyperledger, Java**
+<h3 align="center">Blockchain developer from India</h3>
 
 - 📫 How to reach me **raghavendra.havale12@gmail.com**
 
